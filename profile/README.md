@@ -23,7 +23,7 @@ scheduled KPIs. Sits on top of your data stack — no migration.
 
 ## Built on
 
-Trino · Apache Iceberg · LiteLLM · XGBoost / LightGBM / AutoGluon
+Trino · LiteLLM · XGBoost / LightGBM / AutoGluon
 
 ## Get started
 
